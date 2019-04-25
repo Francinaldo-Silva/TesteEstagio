@@ -1,0 +1,1 @@
+Ruby on Rails é um framework livre que facilita em desenvolver com sites orientados a banco de dados com mais velocidade e suas aplicações são desenvolvidas com base na arquitetura MVC 

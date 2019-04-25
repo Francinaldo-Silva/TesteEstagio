@@ -1,0 +1,1 @@
+React é uma biblioteca do javascript para criar interface de usuário como a do facebook, instagram e no sites da Netflix. É destinado principalmente para desenvolvimento de interfaces de páginas web.
